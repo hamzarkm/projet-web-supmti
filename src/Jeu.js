@@ -220,12 +220,12 @@ function Jeu() {
       </div>
       {resultatJeu === 0 ? (
         <div className="section alert alert-danger">
-          Ouuuula!!!!! Vous avez perdu avec 6 mauvaises tenatives 😞
-        </div>
+          Ouuuula!!!!! Vous avez perdu avec 6 mauvaises tenatives :(   
+      </div>
       ) : null}
       {resultatJeu === 2 ? (
         <div className="section alert alert-success">
-          Wohooooo! Felicitations! Vous avez gagné 🎉
+          Wohooooo! Felicitations! Vous avez gagné :D
         </div>
       ) : null}
       <div>

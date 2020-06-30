@@ -47,7 +47,7 @@ function CV() {
               </ul>
               <div className="card-body">
                 <span className="card-link">LinkedIn</span>
-                <a href="https://github.com/hamzarkm" target="_blank" className="card-link">Github</a>
+                <a href="https://github.com/hamzarkm" target="_blank" rel="noopener noreferrer" className="card-link">Github</a>
               </div>
             </div>
           </div>
